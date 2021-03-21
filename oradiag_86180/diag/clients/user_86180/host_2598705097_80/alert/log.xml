@@ -1,0 +1,43 @@
+<msg time='2021-03-21T09:47:07.688+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1944:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='LAPTOP-QUVDFPRR' host_addr='fe80::39b6:a6fe:cbf:ad9b%4'
+ version='1'>
+ <txt>Create Relation ADR_CONTROL
+ </txt>
+</msg>
+<msg time='2021-03-21T09:47:07.728+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1944:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='LAPTOP-QUVDFPRR' host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Create Relation ADR_INVALIDATION
+ </txt>
+</msg>
+<msg time='2021-03-21T09:47:07.750+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1944:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='LAPTOP-QUVDFPRR' host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Create Relation INC_METER_IMPT_DEF
+ </txt>
+</msg>
+<msg time='2021-03-21T09:47:07.810+08:00' org_id='oracle' comp_id='clients'
+ msg_id='dbgrmmdcrf_create_relation_full:1944:1503427940' type='NOTIFICATION' group='create'
+ level='16' host_id='LAPTOP-QUVDFPRR' host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Create Relation INC_METER_PK_IMPTS
+ </txt>
+</msg>
+<msg time='2021-03-21T09:47:07.834+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-21T09:58:49.589+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-21T09:59:17.883+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
