@@ -41,3 +41,267 @@
  <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
  </txt>
 </msg>
+<msg time='2021-03-22T14:19:58.367+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-22T14:23:43.536+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.704+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.706+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>
+Fatal NI connect error 12170.
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.706+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 32-bit Windows: Version 12.1.0.1.0 - Production
+Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 12.1.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.722+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Time: 22-3ÔÂ -2021 14:24:04
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.723+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.723+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.723+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    ns main err code: 12535
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.736+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.738+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.738+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.738+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    nt main err code: 505
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.749+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.753+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.753+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    nt secondary err code: 60
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.753+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:04.764+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Client address: &lt;unknown&gt;
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.503+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>
+
+***********************************************************************
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.511+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>
+Fatal NI connect error 12170.
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.515+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>
+  VERSION INFORMATION:
+TNS for 32-bit Windows: Version 12.1.0.1.0 - Production
+Windows NT TCP/IP NT Protocol Adapter for 32-bit Windows: Version 12.1.0.1.0 - Production
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.521+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Time: 22-3ÔÂ -2021 14:24:31
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.525+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Tracing not turned on.
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.530+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Tns error struct:
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.533+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    ns main err code: 12535
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.536+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.541+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>TNS-12535: Message 12535 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.546+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    ns secondary err code: 12560
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.550+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    nt main err code: 505
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.553+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.559+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>TNS-00505: Message 505 not found; No message file for product=NETWORK, facility=TNS
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.564+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    nt secondary err code: 60
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.568+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>    nt OS err code: 0
+ </txt>
+</msg>
+<msg time='2021-03-22T14:24:31.570+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>  Client address: &lt;unknown&gt;
+ </txt>
+</msg>
+<msg time='2021-03-22T14:44:05.235+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-22T14:50:59.030+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-22T14:54:58.189+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-22T14:59:43.745+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-30T17:33:16.442+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-30T17:46:16.862+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-30T18:53:47.909+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
+<msg time='2021-03-30T19:17:17.136+08:00' org_id='oracle' comp_id='clients'
+ type='UNKNOWN' level='16' host_id='LAPTOP-QUVDFPRR'
+ host_addr='fe80::39b6:a6fe:cbf:ad9b%4'>
+ <txt>Directory does not exist for read/write [f:\soft\instantclient_12_1\log] []
+ </txt>
+</msg>
